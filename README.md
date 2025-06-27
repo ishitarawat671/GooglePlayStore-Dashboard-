@@ -25,8 +25,8 @@ SQL queries for data extraction and manipulation
 Data modeling and transformation with Power Query
 
 7-Screenshot
- Dashboard Preview = (https://github.com/ishitarawat671/GooglePlayStore-Dashboard-/blob/main/Snapshot%20of%20Dashboard.png)
+ Dashboard Preview = [Alt text](https://github.com/ishitarawat671/GooglePlayStore-Dashboard-/blob/main/Snapshot%20of%20Dashboard.png)
  
-2 Dashboard Preview = (https://github.com/ishitarawat671/GooglePlayStore-Dashboard-/blob/main/Snapshot%20of%20dashboard%202.png)
+2 Dashboard Preview = [Alt text](https://github.com/ishitarawat671/GooglePlayStore-Dashboard-/blob/main/Snapshot%20of%20dashboard%202.png)
 
 
